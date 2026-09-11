@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Remote-Proctoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Remote-Proctoring?style=flat-square&logo=github" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Remote-Proctoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Remote-Proctoring?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Remote-Proctoring/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Remote-Proctoring?style=flat-square&logo=github" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Remote-Proctoring/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Remote-Proctoring?style=flat-square" alt="GitHub issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Remote-Proctoring/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Remote-Proctoring?style=flat-square" alt="License"/></a>
@@ -177,7 +177,7 @@ We welcome contributions from developers, researchers, and EdTech practitioners!
 2. 🌿 Create a feature branch: `git checkout -b feature/new-proctoring-tool`
 3. 📝 Add your entry ensuring:
    - **For SaaS**: Complete starting price and free tier/pilot limits.
-   - **For Open-Source**: Repository link with social star badge pointing to stargazers.
+   - **For Open-Source**: Repository link with social Stars_Badge pointing to stargazers.
 4. 🚀 Submit a Pull Request with a clear description of the project.
 
 ---
